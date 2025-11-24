@@ -1,0 +1,13 @@
+async-timeout==5.0.1
+boto3==1.41.2
+botocore==1.41.2
+jmespath==1.0.1
+py4j==0.10.9.9
+pyarrow==21.0.0
+pyspark==4.0.1
+python-dateutil==2.9.0.post0
+python-dotenv==1.2.1
+redis==7.0.1
+s3transfer==0.15.0
+six==1.17.0
+urllib3==1.26.20

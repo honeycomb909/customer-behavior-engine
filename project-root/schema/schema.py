@@ -101,7 +101,9 @@ DEFAULT_PROPS_BY_EVENT = {
     'play': ['video_id','duration'],
     'click': ['clicked_element','content_category'],
     'purchase': ['product_id','amount'],
-    'signup': []
+    'signup': [],
+    'pause':[],
+    'logout':[]
 }
 
 

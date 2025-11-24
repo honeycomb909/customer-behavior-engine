@@ -38,3 +38,12 @@
 2025-11-24 10:03:54,528 - INFO - batch size: 1000
 2025-11-24 10:03:54,528 - INFO - Out directory: ./data/raw
 2025-11-24 10:03:54,528 - INFO - seed: None
+2025-11-24 13:03:30,163 - INFO - the chosen rate is: 200
+2025-11-24 13:03:30,163 - INFO - batch size: 200
+2025-11-24 13:03:30,163 - INFO - Out directory: ./data/raw
+2025-11-24 13:03:30,163 - INFO - seed: None
+2025-11-24 13:06:40,832 - INFO - the chosen rate is: 200
+2025-11-24 13:06:40,833 - INFO - batch size: 200
+2025-11-24 13:06:40,833 - INFO - Out directory: ./data/raw
+2025-11-24 13:06:40,833 - INFO - seed: None
+2025-11-24 13:06:47,194 - INFO - Generator stopped gracefully
