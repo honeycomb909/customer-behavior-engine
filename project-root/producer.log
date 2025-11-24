@@ -1,0 +1,40 @@
+2025-11-24 10:01:07,702 - INFO - Running indefinitely until interrupted.
+2025-11-24 10:01:07,702 - INFO - the chosen rate is: 100
+2025-11-24 10:01:07,702 - INFO - batch size: 1000
+2025-11-24 10:01:07,702 - INFO - Out directory: ./data/raw
+2025-11-24 10:01:07,702 - INFO - seed: None
+2025-11-24 10:01:23,197 - INFO - Running indefinitely until interrupted.
+2025-11-24 10:01:23,197 - INFO - the chosen rate is: 100
+2025-11-24 10:01:23,197 - INFO - batch size: 1000
+2025-11-24 10:01:23,197 - INFO - Out directory: ./data/raw
+2025-11-24 10:01:23,197 - INFO - seed: None
+2025-11-24 10:01:46,723 - INFO - Running indefinitely until interrupted.
+2025-11-24 10:01:46,723 - INFO - the chosen rate is: 100
+2025-11-24 10:01:46,723 - INFO - batch size: 1000
+2025-11-24 10:01:46,723 - INFO - Out directory: ./data/raw
+2025-11-24 10:01:46,723 - INFO - seed: None
+2025-11-24 10:02:07,765 - INFO - Running indefinitely until interrupted.
+2025-11-24 10:02:07,765 - INFO - the chosen rate is: 100
+2025-11-24 10:02:07,765 - INFO - batch size: 1000
+2025-11-24 10:02:07,765 - INFO - Out directory: ./data/raw
+2025-11-24 10:02:07,765 - INFO - seed: None
+2025-11-24 10:02:51,661 - INFO - Running indefinitely until interrupted.
+2025-11-24 10:02:51,661 - INFO - the chosen rate is: 100
+2025-11-24 10:02:51,661 - INFO - batch size: 1000
+2025-11-24 10:02:51,661 - INFO - Out directory: ./data/raw
+2025-11-24 10:02:51,661 - INFO - seed: None
+2025-11-24 10:03:02,870 - INFO - Running indefinitely until interrupted.
+2025-11-24 10:03:02,870 - INFO - the chosen rate is: 100
+2025-11-24 10:03:02,870 - INFO - batch size: 1000
+2025-11-24 10:03:02,870 - INFO - Out directory: ./data/raw
+2025-11-24 10:03:02,870 - INFO - seed: None
+2025-11-24 10:03:24,334 - INFO - Running indefinitely until interrupted.
+2025-11-24 10:03:24,335 - INFO - the chosen rate is: 100
+2025-11-24 10:03:24,335 - INFO - batch size: 1000
+2025-11-24 10:03:24,335 - INFO - Out directory: ./data/raw
+2025-11-24 10:03:24,335 - INFO - seed: None
+2025-11-24 10:03:54,528 - INFO - Running indefinitely until interrupted.
+2025-11-24 10:03:54,528 - INFO - the chosen rate is: 100
+2025-11-24 10:03:54,528 - INFO - batch size: 1000
+2025-11-24 10:03:54,528 - INFO - Out directory: ./data/raw
+2025-11-24 10:03:54,528 - INFO - seed: None

@@ -1,0 +1,17 @@
+event_ts - ISO String : when the event occurred	
+event_id - unique ID
+user_id - unique persistent identifier
+Session_id - ID
+event_type - click, search, play, pause, purchase, signup, logout
+Page - products_page, search_result, home, cart
+device_info - device.device_type: mobile, desktop
+	      device.os : Android, Windows, MacOS
+	      device.browser : Chrome, Safari
+geo - geo.country : IN, US
+      geo.region : HR, MH, DL, UK
+      geo.city : Mumbai, Delhi, Pune, Haridwar
+Props - video_id, search_query, duration, clicked_element, content_category
+user_props - plan: free/premium, signup_date, referral_sources	
+
+
+
