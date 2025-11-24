@@ -23,3 +23,4 @@ df_raw = spark.read.schema(event_schema).json(raw_path)
 df_raw.printSchema()
 df_raw.show(5,truncate=False)
 
+df_raw.write.mode('append').partitionBy('event_date','event_hour').parquet()

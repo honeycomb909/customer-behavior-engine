@@ -91,7 +91,7 @@ def build_event(pools, session_map, session_counts):
     session_id = get_session_id(user_id, session_map, session_counts)
     event_type = random.choice(pools['event_types'])
     iso_ts = datetime.datetime.now(datetime.timezone.utc)
-    event_ts= f'{iso_ts.isoformat()}Z'
+    event_ts= iso_ts.isoformat()
     event_id = str(uuid.uuid4())
     device = {
         'device_type':random.choice(pools['device_types']),
