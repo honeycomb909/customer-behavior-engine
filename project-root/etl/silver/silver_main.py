@@ -38,11 +38,13 @@ def main():
     df_clean.printSchema()
     print("Quarantine count:", df_quarantine.count())
 
-    # -------- Phase-2: Normalize + Props Extraction --------
     df_norm, df_props = run_phase2(spark, clean_silver_path)
 
+    # Join normalized + props into a unified silver table
+    df_final_silver = df_norm.join(df_props, on=["event_id"], how="left")
+
     # Write outputs
-    df_norm.write.mode("overwrite").parquet(norm_path)
+    df_final_silver.write.mode("overwrite").parquet(norm_path)
     df_props.write.mode("overwrite").parquet(props_path)
 
     print("Phase 2 complete:")
